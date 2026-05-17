@@ -11,4 +11,4 @@ Atualmente consolidando minha base em **Python** — lógica, POO e APIs — e b
 
 ## 🔗 Links
 
-- 🌐 [Portfólio](https://geovanavenera.github.io/portfolio-pessoal/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ver%20site-blue?style=for-the-badge)](https://geovanavenera.github.io/portfolio-pessoal/)
