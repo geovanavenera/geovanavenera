@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👩‍💻 Sobre mim
 
-<!--
-**geovanavenera/geovanavenera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na UNINTER, em transição para a área de tech com foco em **desenvolvimento backend**.
 
-Here are some ideas to get you started:
+Atualmente consolidando minha base em **Python** — lógica, POO e APIs — e buscando minha primeira oportunidade na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` · `POO` · `APIs REST` · `Backend` · `Git`
+
+📍 São Paulo, BR · Aberta a estágios e oportunidades de entrada na área.
+
+
+## 🔗 Links
+
+- 🌐 [Portfólio](https://geovanavenera.github.io/portfolio-pessoal/)
