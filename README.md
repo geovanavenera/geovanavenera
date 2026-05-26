@@ -5,12 +5,13 @@ Estudante de **Engenharia de Software** na UNINTER, em transição para a área 
 
 Atualmente consolidando minha base em Python — praticando lógica, POO e APIs. Buscando minha primeira oportunidade na área.
 
+
+
 · `HTML` · `CSS` · `Python` · `POO` · `APIs REST` · `Backend` · `Git` · `SQL` 
 
+
+
 📍 São Paulo, BR · Aberta a estágios e oportunidades de entrada na área.
-
-
-
 
 
 
