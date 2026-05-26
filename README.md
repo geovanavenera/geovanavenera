@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/gatinho.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/gatinho.gif" width="300"/>
 </div>
 
 ## Sobre Mim
