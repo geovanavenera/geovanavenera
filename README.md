@@ -6,7 +6,7 @@ Atualmente consolidando minha base em **Python** praticando lógica, POO e APIs 
 
 `Python` · `POO` · `APIs REST` · `Backend` · `Git`
 
-📍 São Paulo, BR · Aberta a estágios e oportunidades de entrada na área.
+📍 São Paulo, BR · Aberta a estágios e oportunidades de entrada na área.                     https://raw.githubusercontent.com/geovanavenera/assets/main/gatinho.gif
 
 
 ## 🔗 Links
