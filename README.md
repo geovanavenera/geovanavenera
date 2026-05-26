@@ -10,12 +10,5 @@ Atualmente consolidando minha base em **Python** praticando lógica, POO e APIs 
 
 ## 🔗 Links
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-Ver%20site-blue?style=for-the-badge)](https://geovanavenera.github.io/portfolio-pessoal/)
-
-
-
-
-
-
-![mascote](https://raw.githubusercontent.com/geovanavenera/assets/main/gatinho.gif)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ver%20site-blue?style=for-the-badge)](https://geovanavenera.github.io/portfolio-pessoal/)                                          ![mascote](https://raw.githubusercontent.com/geovanavenera/assets/main/gatinho.gif)
 
