@@ -1,4 +1,4 @@
-## 👩‍💻 Sobre mim
+## • Sobre Mim   https://pin.it/2VidzPQKf
 
 Estudante de Engenharia de Software na UNINTER, em transição para a área de tech com foco em **desenvolvimento backend**.
 
