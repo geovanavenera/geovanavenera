@@ -7,7 +7,7 @@ Atualmente consolidando minha base em Python — praticando lógica, POO e APIs.
 
 
 
-· `HTML` · `CSS` · `Python` · `POO` · `APIs REST` · `Git` · `SQL` 
+·  `HTML`  ·  `CSS`  ·  `Python`  ·  `POO`  ·  `APIs REST`  ·  `Git`  ·  `SQL` 
 
 
 
