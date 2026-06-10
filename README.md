@@ -1,8 +1,8 @@
-<h1>Oii 👋, eu sou a Geovana</h1>
+<h1>Olá 👋, eu sou a Geovana</h1>
 
 <p>
 Estudante de <strong>Engenharia de Software</strong> na UNINTER, em transição para a área de tech com foco em <strong>desenvolvimento backend</strong>.
-Atualmente consolidando minha base com Python: praticando lógica, POO e APIs. Buscando minha primeira oportunidade na área.
+Atualmente consolidando minha base com Python - praticando lógica, POO e APIs. Buscando minha primeira oportunidade na área.
 </p>
 
 ---
@@ -23,8 +23,8 @@ Atualmente consolidando minha base com Python: praticando lógica, POO e APIs. B
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geovanavenera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanavenera&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geovanavenera&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanavenera&layout=compact&langs_count=7&theme=blue_navy"/>
 </div>
 
 ---
