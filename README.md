@@ -1,4 +1,4 @@
-<h1>Olá 👋, eu sou a Geovana</h1>
+<h1>Olá, eu sou a Geovana</h1>
 
 <p>
 Estudante de <strong>Engenharia de Software</strong> na UNINTER, em transição para a área de tech com foco em <strong>desenvolvimento backend</strong>.
