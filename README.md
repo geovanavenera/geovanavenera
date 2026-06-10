@@ -34,5 +34,5 @@ Atualmente consolidando minha base com Python - praticando lógica, POO e APIs. 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Ver%20site-blue?style=for-the-badge)](https://geovanavenera.github.io/portfolio-pessoal/)
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/patinho.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/patinho.gif" width="200"/>
 </div>
