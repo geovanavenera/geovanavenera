@@ -2,7 +2,7 @@
 
 <p>
 Estudante de <strong>Engenharia de Software</strong> na UNINTER, em transição para a área de tech com foco em <strong>desenvolvimento backend, automação e cloud</strong>.
-Atualmente consolidando minha base em Python - praticando lógica, POO e APIs. Buscando minha primeira oportunidade na área.
+ Atualmente me aprofundando em IA generativa, engenharia de agentes, RAG avançado e OCI através do programa Oracle ONE AI For Tech. Buscando minha primeira oportunidade na área.
 </p>
 
 ---
