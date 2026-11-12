@@ -26,13 +26,13 @@
 ## 🛠️ Linguagens & Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,postgres,mysql,neo4j,fastapi,docker,githubactions,git,github,oracle" />
+  <img src="https://skillicons.dev/icons?i=py,java,postgres,mysql,fastapi,docker,githubactions,git,github,vscode,pycharm" />
 </p>
 
 **Estudando / próximos passos:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
