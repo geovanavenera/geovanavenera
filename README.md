@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Dados+%26+IA;Engenharia+de+Dados;Backend+Python+%7C+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Geovana+Venera;Dados+%26+IA;Engenharia+de+Dados;Backend+Python+%7C+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 
 </div>
 
