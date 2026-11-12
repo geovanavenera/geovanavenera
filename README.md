@@ -1,38 +1,53 @@
-<h1>Olá, eu sou a Geovana</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Dados+%26+IA;Engenharia+de+Dados;Backend+Python+%7C+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+
+</div>
+
+---
+
+> **Estudante de Engenharia de Software focada em Engenharia de Dados & IA.** Gosto de transformar processos manuais em fluxos automatizados que funcionam de verdade. Venho de anos como Operadora Sênior de Impressão Digital, onde aprendi que processo bem desenhado vale mais que esforço repetido. Hoje levo essa mentalidade para pipelines de dados, APIs e soluções com IA (RAG, automação e agentes).
 
 <p>
-Estudante de <strong>Engenharia de Software</strong> na UNINTER, em transição para a área de tech com foco em <strong>desenvolvimento backend, automação e cloud</strong>.
- Atualmente me aprofundando em IA generativa, engenharia de agentes, RAG avançado e OCI através do programa Oracle ONE AI For Tech. Buscando minha primeira oportunidade na área.
+  <a href="https://www.linkedin.com/in/geovana-venera/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:geovana.venera@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_%26_RAG-6E40C9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-00A86B?style=flat-square&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Linguagens & Ferramentas
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,postgres,mysql,neo4j,fastapi,docker,githubactions,git,github,oracle" />
+</p>
 
----
+**Estudando / próximos passos:**
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geovanavenera&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanavenera&layout=compact&langs_count=7&theme=blue_navy"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
+</p>
 
 ---
 
-📍 São Paulo, BR · Aberta a estágios e oportunidades de entrada na área.
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/patinho.gif" width="250"/>
+## 🔨 Em andamento
+
+- 📊 Carreira de **Engenharia de Dados** (Alura): Arquiteturas Modernas, SQL, Pipelines e Governança
+- 🤖 Trilha **Oracle ONE – AI For Tech Builder - Engenharia de Agentes, Inteligência de Dados e RAG Avançado**
+
+---
+
+## 🎓 Formação
+
+- Engenharia de Software, UNINTER (São Paulo)
+
+
 </div>
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-Ver%20site-blue?style=for-the-badge)](https://geovanavenera.github.io/portfolio-pessoal/)
