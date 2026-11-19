@@ -57,6 +57,8 @@ Software Engineering Student | Data Engineering
 - Engenharia de Software, UNINTER (São Paulo)
 
 
+---
+
 </div>
  
 
